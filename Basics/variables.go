@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func variableFunc(){
 	var str="First"			//it can be written as  : var str string="First"
 	fmt.Println(str)
 

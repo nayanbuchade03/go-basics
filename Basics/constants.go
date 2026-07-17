@@ -4,7 +4,7 @@ import (
 	"math"
 )
 
-func main(){
+func constantsFunc(){
 	const a string="constant"
 	// const a="Variable"     this gives error
 	fmt.Println(a)

@@ -4,7 +4,7 @@ import (
 	"time"
 )
 
-func main(){
+func switchcaseFunc(){
 	i:=2
 
 	switch i{

@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main(){
+func valuesFunc(){
 	fmt.Println("go"+"lang")   //string
 	fmt.Println("1+2=", 1+2)	//integers
 

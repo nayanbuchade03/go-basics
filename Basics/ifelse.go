@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func ifelseFunc() {
 	if 75%2 == 0 {
 		fmt.Println("even")
 	} else{							//ekse should be in same line of closing braces of if

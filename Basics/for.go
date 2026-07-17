@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main(){
+func forFunc(){
 
 	i:=1					//works like while loop
 	for i<=3{
@@ -16,6 +16,4 @@ func main(){
 	for i:= range 3{			//using range
 		fmt.Println("range",i)
 	}
-
-	
 }
