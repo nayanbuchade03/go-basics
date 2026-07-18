@@ -11,5 +11,6 @@ func main(){
 	// arraysFunc()
 	// sliceFunc()
 	// mapsFunc()
-	functionFunc()
+	// functionFunc()
+	recursionFunc()
 }
