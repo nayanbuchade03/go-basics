@@ -9,5 +9,7 @@ func main(){
 	// ifelseFunc()
 	// switchcaseFunc()
 	// arraysFunc()
-	sliceFunc()
+	// sliceFunc()
+	// mapsFunc()
+	functionFunc()
 }
