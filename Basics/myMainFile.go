@@ -12,5 +12,7 @@ func main(){
 	// sliceFunc()
 	// mapsFunc()
 	// functionFunc()
-	recursionFunc()
+	// recursionFunc()
+	// rangeFunc()
+	pointersFunc()
 }
